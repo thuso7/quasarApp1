@@ -1,0 +1,26 @@
+// app global css in SCSS form
+.q-tab__label {
+	font-size: 12px;
+	font-weight: 900
+}
+.q-toolbar {
+	padding: 0px;
+	height: 56px	
+}
+.q-header {
+	height: 56px
+}
+.body--light {
+  color: black;
+  background-color: white
+}
+.body--dark {
+  color: white;
+  background-color: #121212
+}
+.touch-draggable {
+	position: absolute;
+	cursor: grab;
+	user-select: none;
+	touch-action: none;
+}
